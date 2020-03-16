@@ -4,7 +4,7 @@ import cv2
 import time
 import numpy as np
 from best_fit import fit
-from bestest_fit import fity
+from cnn_fit import fity
 from rectangle import Rectangle
 from note import Note
 from random import randint
